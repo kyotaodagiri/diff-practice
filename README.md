@@ -6,5 +6,4 @@ Diff          変更
 3rd 変更
 
 rebase練習
-
-main変更
+rebase変更
