@@ -7,3 +7,5 @@ Diff          変更
 
 rebase練習
 rebase変更
+
+pull時のrebase用
